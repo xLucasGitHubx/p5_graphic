@@ -1,0 +1,23 @@
+{
+	"name": "p5_graphic",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xLucasGitHubx/p5_graphic.git"
+	},
+	"author": "lucas madjinda",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/xLucasGitHubx/p5_graphic/issues"
+	},
+	"homepage": "https://github.com/xLucasGitHubx/p5_graphic#readme",
+	"dependencies": {
+		"p5": "^1.9.2"
+	}
+}
