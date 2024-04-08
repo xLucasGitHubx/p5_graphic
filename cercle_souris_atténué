@@ -8,8 +8,7 @@ function setup() {
 	noFill();
 }
 function draw() {
-	background(0, 0, 0, 25);
-	// background();
+	background(0, 0, 0, 50);
 }
 function mouseMoved() {
 	ellipse(mouseX, mouseY, 50, 50);
